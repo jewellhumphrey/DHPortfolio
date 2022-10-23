@@ -9,5 +9,19 @@
         "name": "Jewell Humphrey"
     },
     "items": [
+        {
+            "id": "https://jewellhumphrey.github.io/DHPortfolio/about-me.html",
+            "url": "https://jewellhumphrey.github.io/DHPortfolio/about-me.html",
+            "title": "About Jewell",
+            "summary": "Jewell Humphrey is a PhD student in the Anthropology Department at the University of California, Los Angeles (UCLA). She earned her undergraduate degree from Howard University where she majored in Africana studies. Her research interests include Black migration, heritage, Africana archaeology, underwater archaeology, and Africana&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/headshot.jpeg\" sizes=\"100vw\" srcset=\"https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/responsive/headshot-xs.jpeg 300w ,https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/responsive/headshot-sm.jpeg 480w ,https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/responsive/headshot-md.jpeg 768w ,https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/responsive/headshot-lg.jpeg 1024w ,https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/responsive/headshot-xl.jpeg 1360w ,https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/responsive/headshot-2xl.jpeg 1600w\"  alt=\"\" width=\"179\" height=\"269\"></figure>\n<p>Jewell Humphrey is a PhD student in the Anthropology Department at the University of California, Los Angeles (UCLA). She earned her undergraduate degree from Howard University where she majored in Africana studies. Her research interests include Black migration, heritage, Africana archaeology, underwater archaeology, and Africana womanism. Through these interests, Black digital humanities emerges as a common methodology in her work, drawing on Kim Gallon's understanding of digital humanitites as a technology of recovery. </p>\n<p> </p>",
+            "author": {
+                "name": "Jewell Humphrey"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-23T08:00:40-07:00",
+            "date_modified": "2022-10-23T08:02:40-07:00"
+        }
     ]
 }

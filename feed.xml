@@ -3,10 +3,32 @@
     <title>Digital Humanities Portfolio</title>
     <link href="https://jewellhumphrey.github.io/DHPortfolio/feed.xml" rel="self" />
     <link href="https://jewellhumphrey.github.io/DHPortfolio" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2022-10-23T08:02:40-07:00</updated>
     <author>
         <name>Jewell Humphrey</name>
     </author>
     <id>https://jewellhumphrey.github.io/DHPortfolio</id>
 
+    <entry>
+        <title>About Jewell</title>
+        <author>
+            <name>Jewell Humphrey</name>
+        </author>
+        <link href="https://jewellhumphrey.github.io/DHPortfolio/about-me.html"/>
+        <id>https://jewellhumphrey.github.io/DHPortfolio/about-me.html</id>
+
+        <updated>2022-10-23T08:02:40-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Jewell Humphrey is a PhD student in the Anthropology Department at the University of California, Los Angeles (UCLA). She earned her undergraduate degree from Howard University where she majored in Africana studies. Her research interests include Black migration, heritage, Africana archaeology, underwater archaeology, and Africana&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/headshot.jpeg" sizes="100vw" srcset="https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/responsive/headshot-xs.jpeg 300w ,https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/responsive/headshot-sm.jpeg 480w ,https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/responsive/headshot-md.jpeg 768w ,https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/responsive/headshot-lg.jpeg 1024w ,https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/responsive/headshot-xl.jpeg 1360w ,https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/responsive/headshot-2xl.jpeg 1600w"  alt="" width="179" height="269"></figure>
+<p>Jewell Humphrey is a PhD student in the Anthropology Department at the University of California, Los Angeles (UCLA). She earned her undergraduate degree from Howard University where she majored in Africana studies. Her research interests include Black migration, heritage, Africana archaeology, underwater archaeology, and Africana womanism. Through these interests, Black digital humanities emerges as a common methodology in her work, drawing on Kim Gallon's understanding of digital humanitites as a technology of recovery. </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
