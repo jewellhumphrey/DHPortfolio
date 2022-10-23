@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Digital Humanities Portfolio</title>
+    <link href="https://jewellhumphrey.github.io/DHPortfolio/feed.xml" rel="self" />
+    <link href="https://jewellhumphrey.github.io/DHPortfolio" />
+    <updated>2022-10-22T18:13:50-07:00</updated>
+    <author>
+        <name>Jewell Humphrey</name>
+    </author>
+    <id>https://jewellhumphrey.github.io/DHPortfolio</id>
+
+    <entry>
+        <title>Home </title>
+        <author>
+            <name>Jewell Humphrey</name>
+        </author>
+        <link href="https://jewellhumphrey.github.io/DHPortfolio/home.html"/>
+        <id>https://jewellhumphrey.github.io/DHPortfolio/home.html</id>
+
+        <updated>2022-10-22T18:13:50-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

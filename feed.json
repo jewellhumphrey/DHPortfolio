@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Digital Humanities Portfolio",
+    "description": "",
+    "home_page_url": "https://jewellhumphrey.github.io/DHPortfolio",
+    "feed_url": "https://jewellhumphrey.github.io/DHPortfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jewell Humphrey"
+    },
+    "items": [
+        {
+            "id": "https://jewellhumphrey.github.io/DHPortfolio/home.html",
+            "url": "https://jewellhumphrey.github.io/DHPortfolio/home.html",
+            "title": "Home ",
+            "author": {
+                "name": "Jewell Humphrey"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-22T18:13:50-07:00",
+            "date_modified": "2022-10-22T18:13:50-07:00"
+        }
+    ]
+}
