@@ -1,27 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://jewellhumphrey.github.io/DHPortfolio/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://jewellhumphrey.github.io/the-water-is-waiting/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://jewellhumphrey.github.io/DHPortfolio/</loc>
+<loc>https://jewellhumphrey.github.io/the-water-is-waiting/</loc>
 </url>
 <url>
-<loc>https://jewellhumphrey.github.io/DHPortfolio/about-me.html</loc>
-<lastmod>2022-10-23T08:02:40-07:00</lastmod>
+<loc>https://jewellhumphrey.github.io/the-water-is-waiting/about-me.html</loc>
+<lastmod>2022-11-30T02:16:14-08:00</lastmod>
 <image:image>
-<image:loc>https://jewellhumphrey.github.io/DHPortfolio/media/posts/5/headshot.jpeg</image:loc>
+<image:loc>https://jewellhumphrey.github.io/the-water-is-waiting/media/posts/5/headshot.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://jewellhumphrey.github.io/DHPortfolio/digital-humanities-portfolio.html</loc>
-<lastmod>2022-10-23T08:02:11-07:00</lastmod>
-</url>
-<url>
-<loc>https://jewellhumphrey.github.io/DHPortfolio/st-croix-ceramics.html</loc>
-<lastmod>2022-10-22T20:30:59-07:00</lastmod>
+<loc>https://jewellhumphrey.github.io/the-water-is-waiting/get-involved.html</loc>
+<lastmod>2022-11-30T02:15:53-08:00</lastmod>
 <image:image>
-<image:loc>https://jewellhumphrey.github.io/DHPortfolio/media/posts/4/Screen-Shot-2022-10-22-at-7.20.19-PM.png</image:loc>
+<image:loc>https://jewellhumphrey.github.io/the-water-is-waiting/media/posts/6/nabs-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+<image:image>
+<image:loc>https://jewellhumphrey.github.io/the-water-is-waiting/media/posts/6/intot-the-depths.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://jewellhumphrey.github.io/the-water-is-waiting/media/posts/6/outddor.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jewellhumphrey.github.io/the-water-is-waiting/home-2.html</loc>
+<lastmod>2022-11-29T18:59:43-08:00</lastmod>
+</url>
+<url>
+<loc>https://jewellhumphrey.github.io/the-water-is-waiting/media.html</loc>
+<lastmod>2022-11-29T18:41:27-08:00</lastmod>
 </url>
 </urlset>
